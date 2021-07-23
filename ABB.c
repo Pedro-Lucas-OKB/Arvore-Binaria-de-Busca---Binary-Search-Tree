@@ -250,7 +250,6 @@ ABB *Remover_Arvore (ABB *Pointer_Tree, int ID_Value) {
             Pointer_Tree -> ID = ID_Aux;
         }
     }
-    printf ("\nChegou aqui 2\n");
     return Pointer_Tree;
 }
     // FIM DA FUNÇÃO DE REMOÇÃO
